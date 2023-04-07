@@ -6,4 +6,7 @@ https://docs.google.com/spreadsheets/d/1qzSEANCgT8On7FbCJqLHtRwskTsJBAnvff-IpgLB
 
 1qzSEANCgT8On7FbCJqLHtRwskTsJBAnvff-IpgLBqQU
 
+# Reference
+
+https://www.notion.so/3ca983ad90b94e2abb1263cdaa9446c6?pvs=4
 

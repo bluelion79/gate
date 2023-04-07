@@ -1,2 +1,1 @@
-# gate
-Gifted and Talented Education
+# GATE(Gifted and Talented Education)

@@ -4,7 +4,7 @@
 
 https://docs.google.com/spreadsheets/d/1qzSEANCgT8On7FbCJqLHtRwskTsJBAnvff-IpgLBqQU/edit?usp=sharing
 
-1qzSEANCgT8On7FbCJqLHtRwskTsJBAnvff-IpgLBqQU
+=IMPORTRANGE("1qzSEANCgT8On7FbCJqLHtRwskTsJBAnvff-IpgLBqQU", "1-1!A1:Z")
 
 # Reference
 

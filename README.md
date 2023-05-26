@@ -1,6 +1,10 @@
 # GATE(Gifted and Talented Education)
 
-# Learning Materials
+# Google App Scripts
+
+https://edufly.notion.site/3-5969574244b84b949192b16ca4784b39
+
+# Google Spread Sheets
 
 https://docs.google.com/spreadsheets/d/1qzSEANCgT8On7FbCJqLHtRwskTsJBAnvff-IpgLBqQU/edit?usp=sharing
 
